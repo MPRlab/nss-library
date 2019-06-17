@@ -1,6 +1,6 @@
 # nss-library
 Nucleo Solenoid Shield Library
 
-The NSS Test folder contains a test script to toggle each of the 25 solenoids for 1 second. It still needs to abstracted into a class for use in different projects.
+To add this library to your PlatformIO project, clone this repo th the 'lib' directory of your project.
 
-This code is intended to be used in PlatformIO
+The MIDI note map at the start of the code can be edited to change the notes that each solenoid responds to.
