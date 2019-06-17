@@ -19,7 +19,7 @@
 #define SOLENOID_A17 (PG_3)
 #define SOLENOID_A18 (PC_11)
 #define SOLENOID_A19 (PF_9)
-#define SOLENOID_A20 (PH_0)
+#define SOLENOID_A20 (PF_0)
 #define SOLENOID_A21 (PE_4)
 #define SOLENOID_A22 (PD_5)
 #define SOLENOID_A23 (PG_2)
